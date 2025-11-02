@@ -44,7 +44,7 @@ export default function Footer() {
                                 <Twitter className="w-5 h-5" />
                             </a>
                             <a
-                                href="https://wa.me/6281234567890"
+                                href="https://wa.me/6289510144492"
                                 target="_blank"
                                 className="inline-flex h-10 w-10 items-center justify-center rounded-lg bg-white/10 hover:bg-green-500 transition-all duration-300 hover:scale-110"
                             >
@@ -143,7 +143,7 @@ export default function Footer() {
                             </li>
                         </ul>
                         <a
-                            href="https://wa.me/6281234567890"
+                            href="https://wa.me/6289510144492"
                             target="_blank"
                             className="mt-6 inline-flex items-center justify-center gap-2 rounded-lg shadow-lg bg-linear-to-br from-blue-600 to-blue-700 px-6 py-3 text-white text-sm font-semibold transition-all duration-300 hover:scale-105 hover:shadow-xl w-full"
                         >
