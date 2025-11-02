@@ -90,7 +90,7 @@ export default function Kontak() {
         setIsSubmitting(true)
 
         const message = `Halo GoBus,%0A%0ANama: ${formData.nama}%0AEmail: ${formData.email}%0ATelepon: ${formData.telepon}%0ALayanan: ${formData.layanan}%0A%0APesan:%0A${formData.pesan}`
-        const whatsappUrl = `https://wa.me/6281234567890?text=${message}`
+        const whatsappUrl = `https://wa.me/6289510144492?text=${message}`
 
         setTimeout(() => {
             setIsSubmitting(false)
@@ -311,7 +311,7 @@ export default function Kontak() {
                             <h3 className="text-2xl font-bold">Butuh Bantuan Segera?</h3>
                             <p className="text-blue-100">Tim customer service kami siap membantu Anda 24/7 melalui WhatsApp</p>
                             <a
-                                href="https://wa.me/6281234567890"
+                                href="https://wa.me/6289510144492"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-flex items-center justify-center gap-2 w-full rounded-lg bg-white text-blue-600 px-6 py-3 font-semibold hover:bg-blue-50 transition-colors shadow-lg"

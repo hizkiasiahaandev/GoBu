@@ -71,7 +71,7 @@ export default function Navbar() {
         </ul>
 
         <a
-          href="https://wa.me/6281234567890"
+          href="https://wa.me/6289510144492"
           target="_blank"
           className="hidden md:inline-flex items-center gap-2 rounded-lg shadow-lg bg-linear-to-br from-blue-600 to-blue-700 px-6 py-3 text-white text-sm font-semibold transition-all duration-300 hover:scale-105"
         >
@@ -114,7 +114,7 @@ export default function Navbar() {
           </li>
           <li className="mt-2">
             <a
-              href="https://wa.me/6281234567890"
+              href="https://wa.me/6289510144492"
               target="_blank"
               className="inline-flex w-full shadow-lg items-center justify-center gap-2 rounded-lg bg-linear-to-br from-blue-600 to-blue-700 px-6 py-3 text-white font-semibold hover:shadow-xl transition-all duration-300"
             >

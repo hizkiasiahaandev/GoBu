@@ -126,7 +126,7 @@ export default function Layanan() {
                                     </ul>
 
                                     <a
-                                        href="https://wa.me/6281234567890"
+                                        href="https://wa.me/6289510144492"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         className="inline-flex items-center gap-2 text-blue-600 font-semibold hover:text-blue-700 hover:gap-3 transition-all group/link mt-4"
@@ -177,7 +177,7 @@ export default function Layanan() {
 
                         <div className="text-center">
                             <a
-                                href="https://wa.me/6281234567890"
+                                href="https://wa.me/6289510144492"
                                 target="_blank"
                                 className="inline-flex items-center justify-center gap-2 rounded-lg bg-white px-8 py-4 text-blue-600 text-base font-semibold shadow-lg hover:scale-105 transition-all duration-300"
                                 aria-label="Hubungi kami untuk konsultasi gratis"
